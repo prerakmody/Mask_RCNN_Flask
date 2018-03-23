@@ -1,0 +1,10 @@
+# FILE TYPES
+.pyc
+.ipynb_checkpoints/
+__pycache__/
+.out
+.jpg
+.h5
+
+# FOLDERS
+*/model/*
